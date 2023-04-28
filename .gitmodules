@@ -1,23 +1,10 @@
 [submodule "FreeFaaSStore"]
 	path = FreeFaaSStore
-	url = git@github.com:lambda7xx/FreeFaaSStore.git
+	url = https://github.com/lambda7xx/FreeFaaSStore.git 
 	
-[submodule "Stone"]
-	path = Stone
-	url = https://github.com/lambda7xx/DSCheduler.git
 
-[submodule "DSCheduler"]
-	path = DSCheduler
-	url = https://github.com/lambda7xx/DSCheduler.git
-
-[submodule "DStoreTest"]
-	path = DStoreTest
-	url = git@github.com:lambda7xx/DStoreTest.git
 
 [submodule "StoneFlow"]
 	path =StoneFlow
 	url = https://github.com/lambda7xx/DSCheduler.git
 
-[submodule "FreeFaaSStore-0124"]
-	path = FreeFaaSStore
-	url = git@github.com:lambda7xx/FreeFaaSStore.git
