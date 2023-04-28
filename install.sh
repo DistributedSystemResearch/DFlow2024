@@ -1,0 +1,1 @@
+pip3 install grpcio==1.48.2 grpcio-tools==1.48.2 protobuf==3.19.6

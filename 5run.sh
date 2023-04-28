@@ -1,0 +1,1 @@
+ssh root@172.16.187.18 "cd ~/StoneFree ;  bash run.sh  &"

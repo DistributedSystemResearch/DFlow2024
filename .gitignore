@@ -1,0 +1,7 @@
+.vscode
+__pycache__/
+*.asc
+.idea
+tmp/
+*.log
+scripts/FreeStore

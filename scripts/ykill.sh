@@ -1,0 +1,1 @@
+sudo bash find-port-id.sh > port.log

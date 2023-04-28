@@ -1,0 +1,6 @@
+Sending build context to Docker daemon  70.66kB
+Step 1/16 : FROM python:3.7-slim
+ ---> d3c9ad326043
+Step 2/16 : COPY pip.conf /etc/pip.conf
+ ---> b79250b9472f
+Step 3/16 : RUN mkdir /proxy

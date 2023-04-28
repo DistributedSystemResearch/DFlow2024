@@ -1,0 +1,1 @@
+ sudo nohup bash  worker_setup.bash 

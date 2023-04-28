@@ -1,0 +1,1 @@
+python3 gateway.py 172.31.176.42 7000 > master-lambda.log 2>&1

@@ -1,0 +1,952 @@
+20:45:03 processing request 6fac4ca0-96d5-409d-8b15-0f29e2b03f37...
+20:45:13 processing request ee847290-1f02-486f-bd47-e3208364fa7b...
+20:45:16 run_workflow_lambda,the duration:12.480023860931396
+172.16.187.25 - - [2023-02-07 20:45:17] "POST /run HTTP/1.1" 200 257 13.806380
+20:45:22 run_workflow_lambda,the duration:8.635634660720825
+172.16.187.25 - - [2023-02-07 20:45:23] "POST /run HTTP/1.1" 200 257 9.914773
+20:45:23 processing request ea9dc3ee-05d0-4b87-9fb3-cbf07215768b...
+20:45:31 run_workflow_lambda,the duration:8.518344402313232
+20:45:33 processing request fdeb7326-2ad4-4b02-9cc4-d1b03d2f7f8c...
+172.16.187.25 - - [2023-02-07 20:45:33] "POST /run HTTP/1.1" 200 258 10.471786
+20:45:42 run_workflow_lambda,the duration:8.53909707069397
+20:45:43 processing request 7f02e409-646a-400c-8acb-a4c6777a2db9...
+172.16.187.25 - - [2023-02-07 20:45:44] "POST /run HTTP/1.1" 200 256 11.190896
+20:45:52 run_workflow_lambda,the duration:8.581095457077026
+20:45:53 processing request 00bfa935-2974-4ffc-bcd0-bbb06025e3b4...
+172.16.187.25 - - [2023-02-07 20:45:55] "POST /run HTTP/1.1" 200 257 11.843089
+20:46:02 run_workflow_lambda,the duration:8.542783737182617
+20:46:03 processing request 02148549-e05f-416e-beb5-45809dc98510...
+172.16.187.25 - - [2023-02-07 20:46:05] "POST /run HTTP/1.1" 200 256 12.509012
+20:46:12 run_workflow_lambda,the duration:8.564958333969116
+20:46:13 processing request 983679c3-4eac-44d5-9b5f-e9a5140dcf0e...
+172.16.187.25 - - [2023-02-07 20:46:16] "POST /run HTTP/1.1" 200 256 13.290456
+20:46:22 run_workflow_lambda,the duration:8.562915325164795
+20:46:23 processing request 8c0c90ab-6d1b-459b-b719-3a1919c6c9ee...
+172.16.187.25 - - [2023-02-07 20:46:27] "POST /run HTTP/1.1" 200 258 14.113765
+20:46:32 run_workflow_lambda,the duration:8.515382289886475
+20:46:33 processing request 16adc75c-4eb0-4b2e-854a-b4c5103b8ec3...
+172.16.187.25 - - [2023-02-07 20:46:38] "POST /run HTTP/1.1" 200 258 14.681126
+20:46:42 run_workflow_lambda,the duration:8.554544687271118
+20:46:43 processing request b62bcd6c-5848-4d31-8880-add703f6b46d...
+172.16.187.25 - - [2023-02-07 20:46:49] "POST /run HTTP/1.1" 200 258 15.766211
+20:46:52 run_workflow_lambda,the duration:8.53161096572876
+20:46:53 processing request 0f513a1c-3fdb-41d1-8016-42c8524e13b7...
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: 6fac4ca0-96d5-409d-8b15-0f29e2b03f37
+e2e latency: 12.480023860931396
+critial_path_all_time: 6.816802024841309
+critical_IO_time: 2.324943780899048
+critial_path_exec_time: 4.491858243942261
+schedule_overhead: 5.663221836090088
+************
+
+
+****workflow_name: cycles  and request_id: ee847290-1f02-486f-bd47-e3208364fa7b
+e2e latency: 8.635634660720825
+critial_path_all_time: 6.909375905990601
+critical_IO_time: 2.376753568649292
+critial_path_exec_time: 4.532622337341309
+schedule_overhead: 1.7262587547302246
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: ea9dc3ee-05d0-4b87-9fb3-cbf07215768b
+e2e latency: 8.518344402313232
+critial_path_all_time: 6.697920560836792
+critical_IO_time: 2.2747137546539307
+critial_path_exec_time: 4.423206806182861
+schedule_overhead: 1.8204238414764404
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: cycles  and request_id: fdeb7326-2ad4-4b02-9cc4-d1b03d2f7f8c
+e2e latency: 8.53909707069397
+critial_path_all_time: 6.840015888214111
+critical_IO_time: 2.370279550552368
+critial_path_exec_time: 4.469736337661743
+schedule_overhead: 1.6990811824798584
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: 7f02e409-646a-400c-8acb-a4c6777a2db9
+e2e latency: 8.581095457077026
+critial_path_all_time: 6.875772714614868
+critical_IO_time: 2.342177629470825
+critial_path_exec_time: 4.533595085144043
+schedule_overhead: 1.7053227424621582
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: 00bfa935-2974-4ffc-bcd0-bbb06025e3b4
+e2e latency: 8.542783737182617
+critial_path_all_time: 6.782726764678955
+critical_IO_time: 2.227118730545044
+critial_path_exec_time: 4.555608034133911
+schedule_overhead: 1.760056972503662
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: 02148549-e05f-416e-beb5-45809dc98510
+e2e latency: 8.564958333969116
+critial_path_all_time: 6.819828987121582
+critical_IO_time: 2.31962513923645
+critial_path_exec_time: 4.500203847885132
+schedule_overhead: 1.7451293468475342
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: cycles  and request_id: 983679c3-4eac-44d5-9b5f-e9a5140dcf0e
+e2e latency: 8.562915325164795
+critial_path_all_time: 6.879445552825928
+critical_IO_time: 2.3863940238952637
+critial_path_exec_time: 4.493051528930664
+schedule_overhead: 1.6834697723388672
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: cycles  and request_id: 8c0c90ab-6d1b-459b-b719-3a1919c6c9ee
+e2e latency: 8.515382289886475
+critial_path_all_time: 6.769245147705078
+critical_IO_time: 2.3122215270996094
+critial_path_exec_time: 4.457023620605469
+schedule_overhead: 1.7461371421813965
+************
+
+
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: cycles  and request_id: 16adc75c-4eb0-4b2e-854a-b4c5103b8ec3
+e2e latency: 8.554544687271118
+critial_path_all_time: 6.847993850708008
+critical_IO_time: 2.3818488121032715
+critial_path_exec_time: 4.466145038604736
+schedule_overhead: 1.7065508365631104
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request172.16.187.25 - - [2023-02-07 20:47:00] "POST /run HTTP/1.1" 200 255 16.636907
+20:47:02 run_workflow_lambda,the duration:8.537604093551636
+20:47:03 processing request bbc53052-ec46-4285-a344-9c77ec9eef7d...
+172.16.187.25 - - [2023-02-07 20:47:10] "POST /run HTTP/1.1" 200 258 17.502783
+20:47:12 run_workflow_lambda,the duration:8.505305767059326
+20:47:13 processing request 8c850191-7755-4e9b-bd13-4e94d0603261...
+172.16.187.25 - - [2023-02-07 20:47:22] "POST /run HTTP/1.1" 200 257 18.649909
+20:47:22 run_workflow_lambda,the duration:8.58170461654663
+172.16.187.25 - - [2023-02-07 20:47:30] "POST /run HTTP/1.1" 200 256 17.180300
+172.16.187.25 - - [2023-02-07 20:47:36] "POST /clear_container HTTP/1.1" 200 132 2.947764
+20:47:41 processing request 281b7995-260f-483e-be88-7e84f9700c59...
+20:47:51 processing request bf47ee73-435e-48fb-9e74-04b71d20935e...
+20:47:58 run_workflow_lambda,the duration:16.639543294906616
+20:48:01 run_workflow_lambda,the duration:9.650371551513672
+172.16.187.25 - - [2023-02-07 20:48:09] "POST /run HTTP/1.1" 200 260 27.849017
+172.16.187.25 - - [2023-02-07 20:48:12] "POST /run HTTP/1.1" 200 259 20.765177
+20:48:16 processing request d8ad7ee9-8bc3-4d52-bd36-8c72abc1c5f5...
+20:48:26 run_workflow_lambda,the duration:9.615274429321289
+20:48:26 processing request a0e99c9e-3d89-4863-985c-cd5cf5bf67ba...
+20:48:36 run_workflow_lambda,the duration:9.64935827255249
+20:48:36 processing request 400fc70d-aa9d-4e65-9945-0a4a53896bb4...
+172.16.187.25 - - [2023-02-07 20:48:36] "POST /run HTTP/1.1" 200 259 20.268302
+20:48:46 run_workflow_lambda,the duration:9.655243158340454
+20:48:46 processing request e1617d62-9eb5-4a6d-a236-0f3709b260b9...
+172.16.187.25 - - [2023-02-07 20:48:47] "POST /run HTTP/1.1" 200 257 21.529732
+20:48:56 run_workflow_lambda,the duration:9.66414475440979
+20:48:56 processing request 81976635-7473-4a15-bf4b-66503e24ca20...
+172.16.187.25 - - [2023-02-07 20:48:59] "POST /run HTTP/1.1" 200 258 22.833613
+20:49:06 run_workflow_lambda,the duration:9.659382581710815
+20:49:06 processing request 86e69903-f4bc-4030-9f14-537c6c962b64...
+172.16.187.25 - - [2023-02-07 20:49:10] "POST /run HTTP/1.1" 200 258 23.773459
+20:49:16 run_workflow_lambda,the duration:9.64255142211914
+20:49:16 processing request 9979479f-fcf2-4896-b7f5-3ff5ff1a67e7...
+172.16.187.25 - - [2023-02-07 20:49:21] "POST /run HTTP/1.1" 200 260 24.575742
+20:49:26 run_workflow_lambda,the duration:9.671042442321777
+20:49:26 processing request 6916534a-efca-465b-8fd5-743a14f9cc27...
+172.16.187.25 - - [2023-02-07 20:49:32] "POST /run HTTP/1.1" 200 258 25.731012
+20:49:36 run_workflow_lambda,the duration:9.69001817703247
+20:49:36 processing request 96eed8c3-6246-4a2b-a1da-425b419b3b25...
+172.16.187.25 - - [2023-02-07 20:49:43] "POST /run HTTP/1.1" 200 259 26.734473
+20:49:46 run_workflow_lambda,the duration:9.67534327507019
+20:49:46 processing request 7b4433e6-974f-44da-b1dd-f5d896ab357c...
+172.16.187.25 - - [2023-02-07 20:49:54] "POST /run HTTP/1.1" 200 259 27.742717
+20:49:56 run_workflow_lambda,the duration:9.65298867225647
+20:49:56 processing request 367f2600-c7ab-4ae3-8541-cb4d10cc3eae...
+172.16.187.25 - - [2023-02-07 20:50:05] "POST /run HTTP/1.1" 200 259 28.725148
+20:50:06 run_workflow_lambda,the duration:9.67705225944519
+20:50:06 processing request 46332e37-036c-407f-b9cb-209339307f1f...
+172.16.187.25 - - [2023-02-07 20:50:16] "POST /run HTTP/1.1" 200 256 29.685688
+20:50:16 run_workflow_lambda,the duration:9.697258472442627
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: cycles  and request_id: b62bcd6c-5848-4d31-8880-add703f6b46d
+e2e latency: 8.53161096572876
+critial_path_all_time: 6.846974849700928
+critical_IO_time: 2.367534637451172
+critial_path_exec_time: 4.479440212249756
+schedule_overhead: 1.684636116027832
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: 0f513a1c-3fdb-41d1-8016-42c8524e13b7
+e2e latency: 8.537604093551636
+critial_path_all_time: 6.706403017044067
+critical_IO_time: 2.2756173610687256
+critial_path_exec_time: 4.430785655975342
+schedule_overhead: 1.8312010765075684
+************
+
+
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.22:8000/request
+here the url: http://172.16.187.22:8000/request
+****workflow_name: cycles  and request_id: bbc53052-ec46-4285-a344-9c77ec9eef7d
+e2e latency: 8.505305767059326
+critial_path_all_time: 6.758404493331909
+critical_IO_time: 2.2560198307037354
+critial_path_exec_time: 4.502384662628174
+schedule_overhead: 1.746901273727417
+************
+
+
+****workflow_name: cycles  and request_id: 8c850191-7755-4e9b-bd13-4e94d0603261
+e2e latency: 8.58170461654663
+critial_path_all_time: 6.820706129074097
+critical_IO_time: 2.327564001083374
+critial_path_exec_time: 4.493142127990723
+schedule_overhead: 1.7609984874725342
+************
+
+
+the addrs: ['172.16.187.27:8000', '172.16.187.22:8000', '172.16.187.26:8000', '172.16.187.23:8000', '172.16.187.21:8000', '172.16.187.24:8000', '172.16.187.20:8000']
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+****workflow_name: epigenomics  and request_id: 281b7995-260f-483e-be88-7e84f9700c59
+e2e latency: 16.639543294906616
+critial_path_all_time: 9.388659477233887
+critical_IO_time: 0.18688702583312988
+critial_path_exec_time: 9.201772451400757
+schedule_overhead: 7.2508838176727295
+************
+
+
+****workflow_name: epigenomics  and request_id: bf47ee73-435e-48fb-9e74-04b71d20935e
+e2e latency: 9.650371551513672
+critial_path_all_time: 9.384299278259277
+critical_IO_time: 0.17229747772216797
+critial_path_exec_time: 9.21200180053711
+schedule_overhead: 0.26607227325439453
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: d8ad7ee9-8bc3-4d52-bd36-8c72abc1c5f5
+e2e latency: 9.615274429321289
+critial_path_all_time: 9.369519710540771
+critical_IO_time: 0.17526888847351074
+critial_path_exec_time: 9.19425082206726
+schedule_overhead: 0.24575471878051758
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: a0e99c9e-3d89-4863-985c-cd5cf5bf67ba
+e2e latency: 9.64935827255249
+critial_path_all_time: 9.369818449020386
+critical_IO_time: 0.1707160472869873
+critial_path_exec_time: 9.199102401733398
+schedule_overhead: 0.2795398235321045
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: 400fc70d-aa9d-4e65-9945-0a4a53896bb4
+e2e latency: 9.655243158340454
+critial_path_all_time: 9.382930040359497
+critical_IO_time: 0.17316532135009766
+critial_path_exec_time: 9.2097647190094
+schedule_overhead: 0.27231311798095703
+************
+
+
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: e1617d62-9eb5-4a6d-a236-0f3709b260b9
+e2e latency: 9.66414475440979
+critial_path_all_time: 9.405211925506592
+critical_IO_time: 0.17560315132141113
+critial_path_exec_time: 9.22960877418518
+schedule_overhead: 0.25893282890319824
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+****workflow_name: epigenomics  and request_id: 81976635-7473-4a15-bf4b-66503e24ca20
+e2e latency: 9.659382581710815
+critial_path_all_time: 9.388745546340942
+critical_IO_time: 0.17140507698059082
+critial_path_exec_time: 9.217340469360352
+schedule_overhead: 0.27063703536987305
+************
+
+
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: 86e69903-f4bc-4030-9f14-537c6c962b64
+e2e latency: 9.64255142211914
+critial_path_all_time: 9.35646939277649
+critical_IO_time: 0.16580891609191895
+critial_path_exec_time: 9.19066047668457
+schedule_overhead: 0.28608202934265137
+************
+
+
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: 9979479f-fcf2-4896-b7f5-3ff5ff1a67e7
+e2e latency: 9.671042442321777
+critial_path_all_time: 9.408266067504883
+critical_IO_time: 0.17567157745361328
+critial_path_exec_time: 9.23259449005127
+schedule_overhead: 0.26277637481689453
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: 6916534a-efca-465b-8fd5-743a14f9cc27
+e2e latency: 9.69001817703247
+critial_path_all_time: 9.419136047363281
+critical_IO_time: 0.18931937217712402
+critial_path_exec_time: 9.229816675186157
+schedule_overhead: 0.27088212966918945
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.27:8000/request
+****workflow_name: epigenomics  and request_id: 96eed8c3-6246-4a2b-a1da-425b419b3b25
+e2e latency: 9.67534327507019
+critial_path_all_time: 9.408625364303589
+critical_IO_time: 0.18692660331726074
+critial_path_exec_time: 9.221698760986328
+schedule_overhead: 0.26671791076660156
+************
+
+
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.26:8000/request
+****workflow_name: epigenomics  and request_id: 7b4433e6-974f-44da-b1dd-f5d896ab357c
+e2e latency: 9.65298867225647
+critial_path_all_time: 9.382072687149048
+critical_IO_time: 0.166534423828125
+critial_path_exec_time: 9.215538263320923
+schedule_overhead: 0.2709159851074219
+************
+
+
+****workflow_name: epigenomics  and request_id: 367f2600-c7ab-4ae3-8541-cb4d10cc3eae172.16.187.25 - - [2023-02-07 20:50:26] "POST /run HTTP/1.1" 200 257 30.407262
+172.16.187.25 - - [2023-02-07 20:50:34] "POST /run HTTP/1.1" 200 260 28.406860
+172.16.187.25 - - [2023-02-07 20:50:40] "POST /clear_container HTTP/1.1" 200 132 3.858268
+20:50:45 processing request cf4b0b72-ab98-4f6f-861b-0f181abaff84...
+20:50:55 processing request 1b32659f-2e15-48a2-abb8-784c825daf1a...
+20:50:56 run_workflow_lambda,the duration:11.530210256576538
+20:51:03 run_workflow_lambda,the duration:7.813167333602905
+172.16.187.25 - - [2023-02-07 20:51:23] "POST /run HTTP/1.1" 200 259 37.695883
+172.16.187.25 - - [2023-02-07 20:51:24] "POST /run HTTP/1.1" 200 257 29.559901
+20:51:25 processing request 6df75864-4009-4ecd-b94a-924376ed9610...
+20:51:34 run_workflow_lambda,the duration:8.998519659042358
+20:51:35 processing request adcbf35e-ab74-408e-a0b6-bc07cc5fb433...
+20:51:45 processing request f955e1ef-3348-48e1-86fa-a155ac001895...
+20:51:46 run_workflow_lambda,the duration:10.76061725616455
+20:51:55 processing request 9f03e0da-8407-4186-a315-1ae694d526a4...
+20:51:55 run_workflow_lambda,the duration:10.17748737335205
+20:52:05 processing request 4c87e0b9-32cc-4341-9e12-7305116d471e...
+20:52:05 run_workflow_lambda,the duration:10.178650856018066
+20:52:15 processing request 64dcf985-d989-4baa-a6e7-365b81b68f72...
+
+e2e latency: 9.67705225944519
+critial_path_all_time: 9.40410590171814
+critical_IO_time: 0.17695951461791992
+critial_path_exec_time: 9.22714638710022
+schedule_overhead: 0.2729463577270508
+************
+
+
+****workflow_name: epigenomics  and request_id: 46332e37-036c-407f-b9cb-209339307f1f
+e2e latency: 9.697258472442627
+critial_path_all_time: 9.387908458709717
+critical_IO_time: 0.17369413375854492
+critial_path_exec_time: 9.214214324951172
+schedule_overhead: 0.30935001373291016
+************
+
+
+the addrs: ['172.16.187.27:8000', '172.16.187.22:8000', '172.16.187.26:8000', '172.16.187.23:8000', '172.16.187.21:8000', '172.16.187.24:8000', '172.16.187.20:8000']
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+****workflow_name: genome  and request_id: cf4b0b72-ab98-4f6f-861b-0f181abaff84
+e2e latency: 11.530210256576538
+critial_path_all_time: 4.95175838470459
+critical_IO_time: 1.9059550762176514
+critial_path_exec_time: 3.0458033084869385
+schedule_overhead: 6.578451871871948
+************
+
+
+****workflow_name: genome  and request_id: 1b32659f-2e15-48a2-abb8-784c825daf1a
+e2e latency: 7.813167333602905
+critial_path_all_time: 5.896077871322632
+critical_IO_time: 2.823298215866089
+critial_path_exec_time: 3.072779655456543
+schedule_overhead: 1.9170894622802734
+************
+
+
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url:20:52:17 run_workflow_lambda,the duration:11.526093482971191
+20:52:25 processing request c937f0d5-2af2-465a-baab-05cf6272d57a...
+20:52:29 run_workflow_lambda,the duration:12.544894456863403
+20:52:35 processing request ec38c4a2-98db-4e2b-9e72-27fe0999d665...
+20:52:35 run_workflow_lambda,the duration:10.389371156692505
+20:52:45 processing request 5e5cd5d4-9772-4199-954b-cfb3d7570b20...
+20:52:45 run_workflow_lambda,the duration:9.962941408157349
+172.16.187.25 - - [2023-02-07 20:52:46] "POST /run HTTP/1.1" 200 117 81.542172
+20:52:56 run_workflow_lambda,the duration:10.917713642120361
+172.16.187.25 - - [2023-02-07 20:53:08] "POST /run HTTP/1.1" 200 117 93.340275
+172.16.187.25 - - [2023-02-07 20:53:18] "POST /run HTTP/1.1" 200 117 93.411396
+172.16.187.25 - - [2023-02-07 20:53:28] "POST /run HTTP/1.1" 200 117 93.084992
+172.16.187.25 - - [2023-02-07 20:53:35] "POST /run HTTP/1.1" 200 117 89.756027
+172.16.187.25 - - [2023-02-07 20:53:39] "POST /run HTTP/1.1" 200 117 84.381488
+172.16.187.25 - - [2023-02-07 20:53:42] "POST /run HTTP/1.1" 200 117 76.723540
+172.16.187.25 - - [2023-02-07 20:53:44] "POST /run HTTP/1.1" 200 117 69.036083
+172.16.187.25 - - [2023-02-07 20:53:46] "POST /run HTTP/1.1" 200 117 61.405388
+172.16.187.25 - - [2023-02-07 20:53:48] "POST /clear_container HTTP/1.1" 200 132 3.209635
+20:53:53 processing request 32633c99-7bfa-4c45-802d-a0fee2b61460...
+20:54:03 processing request c179af91-4800-409d-a9d3-ed539ced8a15...
+20:54:15 run_workflow_lambda,the duration:21.315568685531616
+20:54:18 run_workflow_lambda,the duration:14.979338884353638
+172.16.187.25 - - [2023-02-07 20:54:44] "POST /run HTTP/1.1" 200 260 51.272432
+172.16.187.25 - - [2023-02-07 20:54:48] "POST /run HTTP/1.1" 200 259 44.815881
+20:54:48 processing request e5dc36c2-28c7-46ac-9107-25d9f15200ab...
+20:54:58 processing request bbbe2928-7218-4728-9236-b8f56d418a2e...
+20:55:02 run_workflow_lambda,the duration:14.086114883422852
+20:55:08 processing request e4559bd4-0a9a-4c1b-a694-af6bfb03783d...
+20:55:13 run_workflow_lambda,the duration:14.473697423934937
+20:55:18 processing request 043cd577-9e84-4bda-b08b-7efe8b828870...
+20:55:23 run_workflow_lambda,the duration:14.420818328857422
+20:55:28 processing request 5d77de96-030f-4134-987e-412964a3144f...
+20:55:32 run_workflow_lambda,the duration:13.897692441940308
+20:55:38 processing request cb79f807-6bf9-4f7a-a7e3-6917e6798d06...
+20:55:42 run_workflow_lambda,the duration:14.158751249313354
+172.16.187.25 - - [2023-02-07 20:55:45] "POST /run HTTP/1.1" 200 259 56.868536
+20:55:48 processing request f0f8a51e-9506-4827-9251-956c57df7037...
+20:55:53 run_workflow_lambda,the duration:14.21810793876648
+20:55:58 processing request b704280f-e5e2-475c-9584-330d8d9550a6...
+20:56:02 run_workflow_lambda,the duration:14.041297674179077
+ http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.27:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.20:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+here the url: http://172.16.187.24:8000/request
+****workflow_name: genome  and request_id: 6df75864-4009-4ecd-b94a-924376ed9610
+e2e latency: 8.998519659042358
+critial_path_all_time: 6.051027774810791
+critical_IO_time: 2.9855875968933105
+critial_path_exec_time: 3.0654401779174805
+schedule_overhead: 2.9474918842315674
+************
+
+
+****workflow_name: genome  and request_id: adcbf35e-ab74-408e-a0b6-bc07cc5fb433
+e2e latency: 10.76061725616455
+critial_path_all_time: 7.080492973327637
+critical_IO_time: 3.794872760772705
+critial_path_exec_time: 3.2856202125549316
+schedule_overhead: 3.680124282836914
+************
+
+
+****workflow_name: genome  and request_id: f955e1ef-3348-48e1-86fa-a155ac001895
+e2e latency: 10.17748737335205
+critial_path_all_time: 5.967148780822754
+critical_IO_time: 2.91438889503479
+critial_path_exec_time: 3.052759885787964
+schedule_overhead: 4.210338592529297
+************
+
+
+****workflow_name: genome  and request_id: 9f03e0da-8407-4186-a315-1ae694d526a4
+e2e latency: 10.178650856018066
+critial_path_all_time: 6.9585957527160645
+critical_IO_time: 3.8887598514556885
+critial_path_exec_time: 3.069835901260376
+schedule_overhead: 3.220055103302002
+************
+
+
+****workflow_name: genome  and request_id: 4c87e0b9-32cc-4341-9e12-7305116d471e
+e2e latency: 11.526093482971191
+critial_path_all_time: 6.690850257873535
+critical_IO_time: 3.6191611289978027
+critial_path_exec_time: 3.0716891288757324
+schedule_overhead: 4.835243225097656
+************
+
+
+****workflow_name: genome  and request_id: 64dcf985-d989-4baa-a6e7-365b81b68f72
+e2e latency: 12.544894456863403
+critial_path_all_time: 6.478661775588989
+critical_IO_time: 3.3914623260498047
+critial_path_exec_time: 3.0871994495391846
+schedule_overhead: 6.066232681274414
+************
+
+
+****workflow_name: genome  and request_id: c937f0d5-2af2-465a-baab-05cf6272d57a
+e2e latency: 10.389371156692505
+critial_path_all_time: 6.819176435470581
+critical_IO_time: 3.745061159133911
+critial_path_exec_time: 3.07411527633667
+schedule_overhead: 3.570194721221924
+************
+
+
+****workflow_name: genome  and request_id: ec38c4a2-98db-4e2b-9e72-27fe0999d665
+e2e latency: 9.962941408157349
+critial_path_all_time: 6.916191339492798
+critical_IO_time: 3.83016300201416
+critial_path_exec_time: 3.0860283374786377
+schedule_overhead: 3.046750068664551
+************
+
+
+the addrs: ['172.16.187.27:8000', '172.16.187.22:8000', '172.16.187.26:8000', '172.16.187.23:8000', '172.16.187.21:8000', '172.16.187.24:8000', '172.16.187.20:8000']
+****workflow_name: genome  and request_id: 5e5cd5d4-9772-4199-954b-cfb3d7570b20
+e2e latency: 10.917713642120361
+critial_path_all_time: 6.078962564468384
+critical_IO_time: 3.0109314918518066
+critial_path_exec_time: 3.068031072616577
+schedule_overhead: 4.8387510776519775
+************
+
+
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+****workflow_name: soykb  and request_id: 32633c99-7bfa-4c45-802d-a0fee2b61460
+e2e latency: 21.315568685531616
+critial_path_all_time: 11.611659526824951
+critical_IO_time: 0.39075541496276855
+critial_path_exec_time: 11.220904111862183
+schedule_overhead: 9.703909158706665
+************
+
+
+****workflow_name: soykb  and request_id: c179af91-4800-409d-a9d3-ed539ced8a15
+e2e latency: 14.979338884353638
+critial_path_all_time: 14.327990055084229
+critical_IO_time: 3.094146966934204
+critial_path_exec_time: 11.233843088150024
+schedule_overhead: 0.6513488292694092
+************
+
+
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+****workflow_name: soykb  and request_id: e5dc36c2-28c7-46ac-9107-25d9f15200ab
+e2e latency: 14.086114883422852
+critial_path_all_time: 13.73949646949768
+critical_IO_time: 2.530032157897949
+critial_path_exec_time: 11.209464311599731
+schedule_overhead: 0.3466184139251709
+************
+
+
+here the url: http://172.16.187.23:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.26:8000/request
+here the url: http://172.16.187.23:8000/request
+****workflow_name: soykb  and request_id: bbbe2928-7218-4728-9236-b8f56d418a2e172.16.187.25 - - [2023-02-07 20:56:07] "POST /run HTTP/1.1" 200 117 68.636550
+20:56:08 processing request d37b1cdb-a8ec-4882-9dc7-54a2c7bc07fa...
+20:56:12 run_workflow_lambda,the duration:14.026464223861694
+20:56:18 processing request 2a4e4170-325d-46a1-a63e-cc1863777657...
+20:56:22 run_workflow_lambda,the duration:14.124907970428467
+172.16.187.25 - - [2023-02-07 20:56:25] "POST /run HTTP/1.1" 200 117 77.232724
+20:56:32 run_workflow_lambda,the duration:14.029302835464478

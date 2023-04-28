@@ -1,0 +1,9 @@
+,workflow,e2e_latency
+0,cycles,2.5337171077728273
+1,epigenomics,0.042144777482016046
+2,genome,2.7559801916922293
+3,soykb,1.6528865661261216
+4,video,timeout
+5,illgal_recognizer,timeout
+6,fileprocessing,16.57486801147461
+7,wordcount,timeout

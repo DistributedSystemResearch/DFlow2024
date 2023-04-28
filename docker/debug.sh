@@ -1,0 +1,1 @@
+bash run.sh > xdocker.log 2>&1

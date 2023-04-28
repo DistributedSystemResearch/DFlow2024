@@ -1,0 +1,140 @@
+syntax = "proto3";
+
+package objectstore;
+
+message WriteLocationRequest {
+  bytes object_id = 1;
+  bytes sender_ip = 2;
+  bool finished = 3;
+  uint64 object_size = 4;
+  oneof has_inband_data {
+    bytes inband_data = 5;
+  }
+  bytes request_id = 6;
+}
+
+message WriteLocationReply {
+  bool ok = 1;
+}
+
+
+message ReceiveObjectRequest {
+  bytes object_id = 1;
+  int64 object_size = 2;
+  int64 offset = 3;
+  bytes request_id  = 4;//todo
+}
+
+message ObjectWriterRequest {
+  oneof message_type {
+    ReceiveObjectRequest receive_object = 1;
+  }
+}
+
+
+
+message GetLocationSyncRequest {
+  bytes object_id = 1;
+  bool occupying = 2;
+  bytes receiver_ip = 3;
+  bytes request_id = 4;
+}
+
+message GetLocationSyncReply {
+  bytes sender_ip = 1;
+  uint64 object_size = 2;
+  bytes inband_data = 3;
+  bool small = 4;//small is true, we get the data from the object directory  cache, otherwise we
+  //get the data from the worker node by using tcp
+}
+
+// broadcast fault tolerance API
+
+message HandlePullObjectFailureRequest {
+  bytes object_id = 1;
+  bytes receiver_ip = 2;
+}
+
+message HandlePullObjectFailureReply {
+  bytes alternative_sender_ip = 1;
+  bool success = 2;
+}
+
+//this is for the docker client
+message PutRequest {
+  bytes object_id= 1;
+  bytes inband_data = 2 ;
+  uint64 object_size =3;
+  bytes request_id = 4;
+}
+
+message  PutReply {
+  bool ok =1;
+  //double put_time = 2;//返回计算时间
+}
+
+message GetRequest {
+  bytes object_id = 1;
+  bytes request_id = 2;
+}
+
+message GetReply {
+  bytes inband_data = 1;
+  uint64 object_size = 2;
+  double get_time =3 ;
+}
+
+message LocalDelRequest {
+  bytes msg = 1;
+}
+
+message LocalDelReply {
+  bool ok =1;
+}
+
+message DelRequest {
+  bytes  msg =1;
+}
+
+message DelReply {
+  bool ok  =1 ;
+}
+//这个是给全局输入用的
+message PutGlobalInputRequest {
+  bytes object_id = 1;
+  bytes inband_data = 2;
+}
+
+message PutGlobalInputReply {
+  bool ok = 1;
+}
+message HelloRequest {
+  bytes req_data = 1;
+}
+//
+message HelloReply {
+  bytes resp_data = 1;
+}
+service NotificationServer {
+  rpc WriteLocation(WriteLocationRequest) returns (WriteLocationReply);
+  rpc GetLocationSync(GetLocationSyncRequest) returns (GetLocationSyncReply);
+  rpc Ping(HelloRequest) returns (HelloReply) ;
+  rpc DelDir(DelRequest) returns (DelReply);
+ // rpc HandlePullObjectFailure(HandlePullObjectFailureRequest) returns (HandlePullObjectFailureReply);
+}
+
+
+/*service LocalStoreServer {
+  rpc Put(stream PutRequest) returns (PutReply) {}
+  rpc Get(GetRequest) returns (stream GetReply) {}
+  //rpc Put(PutRequest) returns (PutReply);
+  //rpc Get(GetRequest) returns (GetReply);
+}*/
+
+service LocalStoreServer {
+  rpc Put(PutRequest) returns (PutReply);
+  rpc Get(GetRequest ) returns (GetReply);
+  rpc PutGlobalInput(PutGlobalInputRequest) returns (PutGlobalInputReply);
+  rpc DelLocal(LocalDelRequest) returns (LocalDelReply);
+  rpc Ping(HelloRequest) returns (HelloReply) ;
+}
